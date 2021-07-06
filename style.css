@@ -1082,5 +1082,11 @@ z-index: 1;
 
 /* End Media Query for Desktop  */
 
-
-
+/*FAQ*/
+html,body{
+  height:100%;
+  width:100%;
+}
+body{
+		background: url("https://vmiis.github.com/modular-distributed-web-application/images/background.jpg?v=3")  center bottom/cover no-repeat;
+}
